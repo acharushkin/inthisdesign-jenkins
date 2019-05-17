@@ -1,0 +1,39 @@
+{
+	"globals": {
+	  "storage-user": "Admin",
+	  "storage-pwd": "1",
+	  "git-path": "git",
+	  "v8version": 8.3,
+	  "domain-email": "github.com",
+	  "lic-try-count": 5,
+	  "plugins": {
+			"enable": [
+				"increment",
+				"check-authors",
+				"check-comments",
+				"increment",
+				"sync-remote"
+			]
+		},
+		"plugins-config": {
+			"push-n-commits": 0,
+			"push-tags": true,
+			"skip-exists-tags": true,
+			"rename-module": true,
+			"rename-form": true,
+			"push": true
+		}
+	},
+	"repositories": [
+	  {
+			"name": "ТестовоеХранилищеУбийцыERP",
+			"path": "c://1CBases//ConfRep",
+			"dir": "./src/cf",
+			"temp-dir": "",
+			"v8version": "8.3.14",
+			"plugins-config": {
+				"URL": "git@github.com:ZhdanovR/cicdForOne.git"
+			}
+		}
+	]
+  }
