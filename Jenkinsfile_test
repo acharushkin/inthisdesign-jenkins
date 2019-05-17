@@ -1,7 +1,7 @@
  
 @Library('jenkins_libs') _
 
-performTesting(AGENT: "slave",
+performTesting(AGENT: "windows",
         V8VERSION: "8.3.14",
         SOURCE_PATH: "./src/cf",
         EMAILS_FOR_NOTIFICATION: "charushkin@gmail.com")
