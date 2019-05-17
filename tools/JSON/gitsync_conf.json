@@ -29,10 +29,7 @@
 			"path": "c://1CBases//ConfRep",
 			"dir": "./src/cf",
 			"temp-dir": "",
-			"v8version": "8.3.14",
-			"plugins-config": {
-				"URL": "git@github.com:ZhdanovR/cicdForOne.git"
-			}
+			"v8version": "8.3.14"
 		}
 	]
   }
