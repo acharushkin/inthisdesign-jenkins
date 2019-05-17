@@ -138,6 +138,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<CommonModule>ОбщегоНазначения</CommonModule>
 			<Catalog>Контрагенты</Catalog>
 		</ChildObjects>
 	</Configuration>
