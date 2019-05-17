@@ -1,0 +1,7 @@
+allure-report
+build
+out
+xddExitCodePath.txt
+*.log
+.packman
+*.cf
