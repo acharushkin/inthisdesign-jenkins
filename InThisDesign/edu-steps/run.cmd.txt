@@ -1,0 +1,1 @@
+java -Dfile.encoding=UTF-8 -jar agent.jar -jnlpUrl http://ubuntu:8080/computer/isThisDesign1/slave-agent.jnlp -secret d65606209ae4a5195b117f1cd8f9b1640fe228516a885b19b8c9d4bbf5f6af0b -workDir "C:\J"
