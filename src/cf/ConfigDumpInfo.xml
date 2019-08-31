@@ -5,10 +5,12 @@
 			<Metadata name="Catalog.Контрагенты.Attribute.ИНН" id="04aa1e37-05da-4bb6-aa16-da4770c470a1"/>
 			<Metadata name="Catalog.Контрагенты.Attribute.КПП" id="268632dc-6885-4104-b042-f554e4daf664"/>
 		</Metadata>
-		<Metadata name="CommonModule.ОбщегоНазначения" id="d85a0930-f198-4ca7-8c5d-caa3680e7a5f" configVersion="4c46da1de1a34940bc98e84890827d5300000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначения" id="d85a0930-f198-4ca7-8c5d-caa3680e7a5f" configVersion="476800decb2b9d49ab8682e94c12a8de00000000"/>
 		<Metadata name="CommonModule.ОбщегоНазначения.Module" id="d85a0930-f198-4ca7-8c5d-caa3680e7a5f.0" configVersion="1b1a681f898f74448489abb4473aa71d00000000"/>
-		<Metadata name="Configuration.УбийцаERP" id="9b9002d4-1395-4ef2-9cf6-16f607eb6557" configVersion="9048208724dc1a41b8081d6883cbc6e500000000"/>
+		<Metadata name="Configuration.УбийцаERP" id="9b9002d4-1395-4ef2-9cf6-16f607eb6557" configVersion="6b12c768569789439c1df45ece7aa6b500000000"/>
 		<Metadata name="Configuration.УбийцаERP.ManagedApplicationModule" id="72f3f206-3530-4103-8b3f-4ab1ac7348d4.6" configVersion="602eff090119104396a2f203abe67b3f00000000"/>
 		<Metadata name="Language.Русский" id="f9220a27-d418-42cc-8ef6-f94416558107" configVersion="85c15bc4e42a4f4196e5b9502ef8dc3300000000"/>
+		<Metadata name="Role.АдминистраторСистемы" id="12e0b16f-1281-4353-bf50-4e06f771c86e" configVersion="b59197f6842c2642bb1d8faa9c9fd8f900000000"/>
+		<Metadata name="Role.АдминистраторСистемы.Rights" id="12e0b16f-1281-4353-bf50-4e06f771c86e.0" configVersion="18027bb07097164d84aa4f8f2d9f211700000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
